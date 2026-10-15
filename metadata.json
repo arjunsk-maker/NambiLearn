@@ -1,0 +1,6 @@
+{
+  "name": "NambiLearn | TNPSC Unit V Visual Classroom",
+  "description": "Interactive visual classroom and digital museum for TNPSC Unit V: Indian Economy and Development Administration in Tamil Nadu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
