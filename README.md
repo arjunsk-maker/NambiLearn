@@ -2,6 +2,10 @@
 
 An interactive visual classroom for TNPSC Unit V, covering Indian Economy and Development Administration in Tamil Nadu.
 
+[**View source code on GitHub**](https://github.com/arjunsk-maker/NambiLearn)
+
+> **Live demo:** Not published yet. Add your deployed website URL here when hosting is configured.
+
 ## ✨ Project overview
 
 NambiLearn aims to make exam preparation more visual, organized, and engaging through an interactive learning experience.
